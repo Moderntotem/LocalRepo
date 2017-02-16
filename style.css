@@ -1,0 +1,29 @@
+.columnL{
+  float: left;
+}
+
+.columnM{
+  float:left;
+  padding-left: 100px;
+}
+
+.columnR{
+  float: left;
+  padding-left: 100px;
+}
+
+#gamemode{
+  line-height: 20px;
+  padding-top: 50px;
+  padding-bottom: 50px;
+}
+
+#description{
+  line-height: 25px;
+  padding-top: 20px;
+}
+
+#contestType{
+  line-height: 25px;
+  padding-top: 50px;
+}
